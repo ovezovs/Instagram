@@ -1,6 +1,6 @@
-# Project Name - *Instagram*
+# Project Name - *Instapic*
 
-**Instagram** is a photo sharing app similar to Instagram but using Parse as its backend.
+**Instapic** is a photo sharing app similar to Instagram but using Parse as its backend.
 
 Time spent: **4** hours spent in total
 
