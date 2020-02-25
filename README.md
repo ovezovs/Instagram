@@ -1,4 +1,4 @@
-# Project 3 - *Instagram*
+# Project Name - *Instagram*
 
 **Instagram** is a photo sharing app similar to Instagram but using Parse as its backend.
 
@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/ovezovs/Instagram/blob/master/Instademo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
